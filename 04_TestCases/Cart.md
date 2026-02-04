@@ -1,6 +1,6 @@
-| ID | Description | Expected |
-|----|------------|---------|
-| C01 | Add product | Product added |
-| C02 | Remove product | Product removed |
-| C03 | Multiple products | All added |
-| C04 | Cart persistence | Cart saved |
+| ID | Описание | Ожидаемый результат |
+|----|----------|--------------------|
+| C01 | Добавить товар | Товар добавлен |
+| C02 | Удалить товар | Товар удалён |
+| C03 | Добавить несколько товаров | Все товары добавлены |
+| C04 | Обновить страницу | Корзина сохранена |
