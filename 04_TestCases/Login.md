@@ -1,7 +1,7 @@
-| ID | Description | Expected Result |
-|----|------------|----------------|
-| L01 | Valid login | User logged in |
-| L02 | Empty password | Error shown |
-| L03 | Empty username | Error shown |
-| L04 | Invalid credentials | Error shown |
-| L05 | Logout | User logged out |
+| ID | Описание | Ожидаемый результат |
+|----|----------|--------------------|
+| L01 | Вход с валидными данными | Пользователь вошёл |
+| L02 | Пустой пароль | Ошибка |
+| L03 | Пустой логин | Ошибка |
+| L04 | Неверные данные | Ошибка |
+| L05 | Выход из системы | Пользователь вышел |
