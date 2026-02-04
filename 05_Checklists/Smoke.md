@@ -1,6 +1,6 @@
-☐ Site opens  
-☐ Login works  
-☐ Products displayed  
-☐ Cart works  
-☐ Checkout works  
-☐ Logout works  
+☐ Сайт открывается  
+☐ Авторизация работает  
+☐ Товары отображаются  
+☐ Корзина работает  
+☐ Заказ оформляется  
+☐ Выход работает  
