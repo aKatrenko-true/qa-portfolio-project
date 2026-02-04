@@ -1,35 +1,35 @@
-# qa-portfolio-project
+# QA Portfolio Project
 
-Full-cycle manual QA testing of demo e-commerce application.
+Pet-проект по ручному тестированию demo e-commerce приложения.
 
-## Scope
-- Login
-- Products
-- Cart
-- Checkout
+## Область тестирования
+- Авторизация
+- Каталог товаров
+- Корзина
+- Оформление заказа
 
-## Artifacts
-- Requirements
+## Артефакты проекта
+- Требования
 - Test Strategy
 - Test Plan
-- 40+ Test Cases
-- Smoke Checklist
-- Bug Reports
-- API Testing
-- SQL Practice
+- Тест-кейсы
+- Smoke чек-лист
+- Баг-репорты
+- API тестирование
+- SQL практика
 - Traceability Matrix
 - Test Summary Report
 
-## Tools
+## Инструменты
 Postman  
 Chrome DevTools  
 GitHub  
 
-## Skills demonstrated
-Manual Testing  
-API Testing  
-Bug Reporting  
-Test Documentation  
-SQL basics  
+## Навыки
+Ручное тестирование  
+Составление тестовой документации  
+API тестирование  
+Баг-репорты  
+Основы SQL  
 
-Author: Katrenko
+Автор: Katrenko
