@@ -110,7 +110,7 @@ Pet-проект по ручному тестированию demo e-commerce в
 
 В рамках pet-проекта были заведены баг-репорты в GitHub Issues:
 
-- **Critical:** [Заказ оформляется без обязательного поля Name](https://github.com/aKatrenko-true/qa-portfolio-project/issues/1))
+- **Critical:** [Заказ оформляется без обязательного поля Name](https://github.com/aKatrenko-true/qa-portfolio-project/issues/1)
 - **Major:** [Товар не удаляется из корзины после нажатия Delete](https://github.com/aKatrenko-true/qa-portfolio-project/issues/2)
 - **Major:** [Итоговая сумма не пересчитывается после удаления товаров](https://github.com/aKatrenko-true/qa-portfolio-project/issues/3)
 
