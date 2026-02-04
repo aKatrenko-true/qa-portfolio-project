@@ -1,11 +1,12 @@
-# Test Metrics
-
-Total Test Cases: 40  
+Всего тест-кейсов: 42  
 Passed: 34  
-Failed: 6  
+Failed: 8  
 
-Defect Density: 15%  
+Critical: 1  
+High: 2  
+Medium: 3  
+Low: 2  
 
-Critical Bugs: 1  
-Major Bugs: 2  
-Minor Bugs: 3 
+Вывод:
+Приложение не готово к релизу.
+Необходимо исправить critical и high дефекты.
