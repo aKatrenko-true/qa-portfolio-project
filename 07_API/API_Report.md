@@ -1,9 +1,11 @@
-API tested via Postman.
+# API тестирование
 
-Endpoints:
+Инструмент: Postman
+
+Проверенные эндпоинты:
 - auth/login
 - products
 
-Results:
-Login - Passed  
-Products - Passed
+Результаты:
+Login – Passed  
+Products – Passed
