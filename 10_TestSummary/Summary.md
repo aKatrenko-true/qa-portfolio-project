@@ -1,10 +1,11 @@
-Всего тест-кейсов: 25  
-Passed: 21  
-Failed: 4  
+# Test Metrics
 
-Critical: 1  
-Major: 1  
-Minor: 2  
+Total Test Cases: 40  
+Passed: 34  
+Failed: 6  
 
-Вывод:
-Приложение требует исправления дефектов перед релизом.
+Defect Density: 15%  
+
+Critical Bugs: 1  
+Major Bugs: 2  
+Minor Bugs: 3 
