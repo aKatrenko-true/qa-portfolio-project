@@ -1,12 +1,15 @@
-Summary: Cart not updated
+Summary: Корзина не обновляется
 
-Steps:
-1 Login
-2 Add product
-3 Open cart
+Шаги:
+1 Войти в систему  
+2 Добавить товар  
+3 Открыть корзину  
 
-Actual: Cart empty  
-Expected: Product visible  
+Фактический результат:
+Корзина пустая
+
+Ожидаемый результат:
+Товар отображается
 
 Severity: High  
 Priority: High
