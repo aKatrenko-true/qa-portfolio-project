@@ -1,12 +1,15 @@
-Summary: Checkout allows empty name
+Summary: Заказ оформляется с пустым именем
 
-Steps:
-1 Add product
-2 Checkout
-3 Leave name empty
+Шаги:
+1 Добавить товар  
+2 Перейти к оформлению  
+3 Оставить поле "Имя" пустым  
 
-Actual: Order created  
-Expected: Validation error  
+Фактический результат:
+Заказ создан
+
+Ожидаемый результат:
+Ошибка валидации
 
 Severity: Medium  
 Priority: Medium
