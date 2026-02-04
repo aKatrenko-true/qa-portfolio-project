@@ -1,5 +1,5 @@
-| ID | Description | Expected |
-|----|------------|---------|
-| P01 | Open product list | Products displayed |
-| P02 | Open product card | Product details shown |
-| P03 | Refresh page | Products still visible |
+| ID | Описание | Ожидаемый результат |
+|----|----------|--------------------|
+| P01 | Открыть каталог товаров | Товары отображаются |
+| P02 | Открыть карточку товара | Детали товара показаны |
+| P03 | Обновить страницу | Товары сохранены |
