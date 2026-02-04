@@ -1,6 +1,6 @@
-# SQL Practice
+# SQL практика
 
 SELECT * FROM users WHERE age > 25;
 
-Result:
-Users older than 25 returned successfully.
+Результат:
+Получен список пользователей старше 25 лет.
