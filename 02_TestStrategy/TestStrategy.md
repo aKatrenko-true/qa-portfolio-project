@@ -1,22 +1,22 @@
 # Test Strategy
 
-## Types of testing
-- Smoke
-- Functional
-- Regression
-- API
-- Exploratory
+## Типы тестирования
+- Smoke тестирование
+- Функциональное тестирование
+- Регрессионное тестирование
+- API тестирование
+- Исследовательское тестирование
 
-## Tools
+## Инструменты
 - Chrome DevTools
 - Postman
 - GitHub
 
-## Environment
-Browser: Chrome  
-OS: Windows/Mac  
+## Тестовое окружение
+Браузер: Chrome  
+ОС: Windows / Mac  
 
-## Risks
-- Cart data loss
-- Login failures
-- Checkout errors
+## Риски
+- Потеря данных корзины
+- Ошибки авторизации
+- Проблемы оформления заказа
